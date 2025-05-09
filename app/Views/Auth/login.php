@@ -10,7 +10,7 @@
     <!-- ===============================================-->
     <!--    Document Title-->
     <!-- ===============================================-->
-    <title>Rumah Arsip Inspektorat Jenderal</title>
+    <title>Rumah Arsip Inspektorat Jenderal 2025 Publish</title>
 
 
     <!-- ===============================================-->
